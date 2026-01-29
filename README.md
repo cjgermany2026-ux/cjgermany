@@ -1,4 +1,4 @@
-# A.R. Rahman Website Recreation
+# cj germany  Website Recreation
 
 A modern recreation of the A.R. Rahman official website with the same style, animations, and structure.
 
